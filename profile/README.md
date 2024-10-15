@@ -40,6 +40,7 @@
 </div>
 
 <div style="text-align: center;">
+  <img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/462540838_519177000903010_3045711886277757753_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeGGwtlXQtFCm04-N_9-0AZe78npkUv8_G_vyemRS_z8b0dvN4N7ei47tDrDXbaCZ5CZkb1qaVcmtbqfaXSEhp0_&_nc_ohc=_2gfNes-Qo0Q7kNvgHa-ZBx&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=AWEkVi0STwZPlz1dObe0hEh&oh=03_Q7cD1QFjn-_xCM8D0_WhF3HH5Njfa_E_6G3sotP8QxhfBAOoPQ&oe=6735CC16" width="200"/>
   <p>Rofl Eluigi Arriola</p>
 </div>
 
