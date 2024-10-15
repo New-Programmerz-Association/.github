@@ -35,6 +35,7 @@
 </div>
 
 <div style="text-align: center;">
+  <img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.15752-9/462554155_389915550724177_8208412270421387246_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHjLGbetX3xXccUgWXfFtSRaoNUUTbV5AFqg1RRNtXkAfE7mvMME7GTrmipK34VbmWUkbDTGtIISa1cf9bZVNBq&_nc_ohc=ICbPYDXhhpsQ7kNvgELVjXP&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=ATIWnDBME7029Him2BEolqz&oh=03_Q7cD1QHKfN2GDJQ4bAUUj_skhmfcpjKQ-eKJXVU_FyOWVEEBuw&oe=6735D10F" width="200" />
   <p>John Rymell Pabellosa</p>
 </div>
 
