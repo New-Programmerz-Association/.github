@@ -1,4 +1,50 @@
-## New Programmerz Association
+# New Programmerz Association
 
-# Leader:
-- Eyre Vincent Gonzales
+### Leader:
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/452288889_2502293656647564_1829046383506281097_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEgHBfM_FcYSAQAbp_UNdatSjImpiHliAZKMiamIeWIBmfd0bkYJiYcyoxoyX_yMJO1oPkORFMqVYdhYS0QEp-J&_nc_ohc=9v5bP6NC79AQ7kNvgEySNgJ&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=AmE9ilqrfJTRfcKnAgXxviK&oh=00_AYBHoj01v53dU4VxGztFYkLvMzmUKrk1kBniL3pzps9TFw&oe=6714523A" width="200" />
+  <p><b>Eyre Vincent Gonzales</b></p>
+</div>
+
+### Members:
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/151751739?v=4" width="200" />
+  <p>Ron Vincent Cada</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/79367104?v=4" width="200" />
+  <p>Peter Bob Domogma</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/179076939?v=4" width="200" />
+  <p>Gabriel Ballesteros</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/358431017_2618348821650510_1239804022323843764_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFvFPBz1QrvO_9ndayJOJ_CSG3jGc3T2ppIbeMZzdPamr0rywVor0QUMFMOslTK_0ZmQK83RxU6A7dyOPLY0LzA&_nc_ohc=DzwmIaNfwFEQ7kNvgFcPOxC&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=AMNFr6Bi93ZZiANtO4A68lh&oh=00_AYAY80Luv42693lJLD_kwNokQOitM8Hl2FQcWVgiAmKUiw&oe=67145545" width="200" />
+  <p>Mike Andrei Gomez</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/458997001_1897499720770404_3762465100645411853_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGbL7z6mLLXVF4B-Z-NFtTwj9aLl26b2FOP1ouXbpvYU1ql2DGYK644T43Sk6TjBjv-IIinK0OvhuFMl6zIkIbk&_nc_ohc=7VropdTsUrcQ7kNvgFOGmIV&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=A-LkQnS6kiEFJKFCmHktwrl&oh=00_AYAAL2p2I8mT3GLFZZFdNv6GSDt0j2fhCurg4-E8VE65Xg&oe=671440AA" width="200" />
+  <p>Neo Medrano</p>
+</div>
+
+<div style="text-align: center;">
+  <p>John Rymell Pabellosa</p>
+</div>
+
+<div style="text-align: center;">
+  <p>Rofl Eluigi Arriola</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/428620484_7256308444450090_422510199755106087_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFkSrR6WwPdxiVPXxT4kskZ4r0z2910UpjivTPb3XRSmI1PTJygHHull88K3iO9mjsdl7fkDrRJw6wMmf-mnXYz&_nc_ohc=9kIabwsod9QQ7kNvgFUkv0t&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=AD2daCqSQAq-B54mdDGRjKx&oh=00_AYDHGkC5LecuAsRlQHpbL8vMt6wYhOPj-XHEjk-f1rSnvg&oe=671450D2" width="200" />
+  <p>Nikko Samson</p>
+</div>
+
+</div>
