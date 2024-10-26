@@ -2,7 +2,7 @@
 
 ### Leader:
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/452288889_2502293656647564_1829046383506281097_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEgHBfM_FcYSAQAbp_UNdatSjImpiHliAZKMiamIeWIBmfd0bkYJiYcyoxoyX_yMJO1oPkORFMqVYdhYS0QEp-J&_nc_ohc=9v5bP6NC79AQ7kNvgEySNgJ&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=AmE9ilqrfJTRfcKnAgXxviK&oh=00_AYBHoj01v53dU4VxGztFYkLvMzmUKrk1kBniL3pzps9TFw&oe=6714523A" width="200" />
+  <img src="https://scontent.fmnl14-1.fna.fbcdn.net/v/t39.30808-6/452288889_2502293656647564_1829046383506281097_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEgHBfM_FcYSAQAbp_UNdatSjImpiHliAZKMiamIeWIBmfd0bkYJiYcyoxoyX_yMJO1oPkORFMqVYdhYS0QEp-J&_nc_ohc=VEzPRX8uqX4Q7kNvgGuWxNQ&_nc_zt=23&_nc_ht=scontent.fmnl14-1.fna&_nc_gid=Au4AkiV-HxEM6w87qiiilbj&oh=00_AYAvo4HhkqBNtRGHlgomDn5oeTH6Cuj1tlTo4QEHoEJxiA&oe=6722D2BA" width="200" />
   <p><b>Eyre Vincent Gonzales</b></p>
 </div>
 
@@ -15,7 +15,7 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="https://avatars.githubusercontent.com/u/79367104?v=4" width="200" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHt-TaFeN5bxw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726818856078?e=1735171200&v=beta&t=KaAiXdwc4WtPw0EL4ruRd0-oTLOu-PtV4sQjSq0wqfw" width="200" />
   <p>Peter Bob Domogma</p>
 </div>
 
