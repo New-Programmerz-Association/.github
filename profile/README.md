@@ -25,7 +25,7 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/358431017_2618348821650510_1239804022323843764_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFvFPBz1QrvO_9ndayJOJ_CSG3jGc3T2ppIbeMZzdPamr0rywVor0QUMFMOslTK_0ZmQK83RxU6A7dyOPLY0LzA&_nc_ohc=DzwmIaNfwFEQ7kNvgFcPOxC&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=AMNFr6Bi93ZZiANtO4A68lh&oh=00_AYAY80Luv42693lJLD_kwNokQOitM8Hl2FQcWVgiAmKUiw&oe=67145545" width="200" />
+  <img src="https://scontent.fmnl14-1.fna.fbcdn.net/v/t39.30808-6/358431017_2618348821650510_1239804022323843764_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFvFPBz1QrvO_9ndayJOJ_CSG3jGc3T2ppIbeMZzdPamr0rywVor0QUMFMOslTK_0ZmQK83RxU6A7dyOPLY0LzA&_nc_ohc=dLTnKezRZZkQ7kNvgEJ_wJl&_nc_zt=23&_nc_ht=scontent.fmnl14-1.fna&_nc_gid=A4rEH2dCg-M-2H5h_8s2DL5&oh=00_AYBEi9JuLvyj6biRMeGreMzC8S8JCo0u1atCiISg9RCkTg&oe=6722D5C5" width="200" />
   <p>Mike Andrei Gomez</p>
 </div>
 
